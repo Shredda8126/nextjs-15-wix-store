@@ -1,0 +1,13 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:nextjs-15-wix-store}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "cSpell.words": [
+        "Theestylist"
+    ]
+}
